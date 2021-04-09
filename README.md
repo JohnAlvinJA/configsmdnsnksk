@@ -1,2 +1,0 @@
-# configsmdnsnksk
-none
